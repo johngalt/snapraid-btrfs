@@ -15,7 +15,7 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-readonly COPYRIGHT_YEARS='2017-2023'
+readonly COPYRIGHT_YEARS='2017-2024'
 readonly DEFAULT_CONFIG_FILE=/etc/snapraid.conf
 readonly DEFAULT_SNAPPER_CONFIG_DIR=/etc/snapper/configs
 readonly DEFAULT_TMPDIR=/tmp
